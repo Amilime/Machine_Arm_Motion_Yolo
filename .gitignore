@@ -1,0 +1,12 @@
+# 忽略巨大的模型文件
+*.pt
+cv/yolo11s.pt
+
+# 忽略 Python 环境和缓存
+venv/
+.idea/
+__pycache__/
+*.pyc
+
+# 忽略临时运行产生的 requirements 之外的日志
+*.log
