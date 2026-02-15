@@ -36,5 +36,7 @@ wifi_server+screen_catch是传统A，server.py+yolopeople.py是AI版本B
 * 局部运动计算，通过计算人体边界框的宽高比变化和中心点偏移以及关键点移动来衡量运动
 * 综合指标为：运动强度0.7*局部肢体运动 + 0.3*全局帧间运动
 
+## 现实测试
+![img.png](img.png)
 
-
+![img_1.png](img_1.png)
